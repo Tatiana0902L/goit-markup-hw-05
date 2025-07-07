@@ -676,16 +676,12 @@ section {
 .modal-close-btn:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .close-button {
   fill: #2e2f42;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.close-button:hover,
-.close-button:focus {
-  fill: #ffffff;
 }
 
 .modal-title {
@@ -755,7 +751,7 @@ section {
   height: 40px;
 }
 
-.modal-field .textarea {
+.textarea {
   margin-bottom: 16px;
 }
 
