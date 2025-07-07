@@ -676,6 +676,10 @@ section {
 .modal-close-btn:focus {
   background-color: #404bbf;
   border: none;
+}
+
+.modal-close-btn:hover .close-button,
+.modal-close-btn:focus .close-button {
   fill: #ffffff;
 }
 
