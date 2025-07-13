@@ -91,7 +91,7 @@ section {
   line-height: 1.5;
   color: #2e2f42;
   letter-spacing: 0.02em;
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: center;
   gap: 20px;
@@ -161,8 +161,6 @@ section {
   background-size: cover;
   background-position: center;
   color: #fff;
-  margin-right: auto;
-  margin-left: auto;
   background-color: #2e2f42;
 }
 
